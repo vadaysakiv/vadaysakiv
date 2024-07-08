@@ -1,3 +1,5 @@
+![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
+
 <h1 align="center">Hi 👋, I'm vadaysakiv</h1>
 <h3 align="center">A passionate frontend Security Researcher from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif">
