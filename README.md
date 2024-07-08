@@ -29,6 +29,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDsIMwEubnS43MuXjzPzgFVJ1rGtiDFJjwg&s" alt="aws" width="40" height="40"/> </a> <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
 <img src="https://ih1.redbubble.net/image.2630445526.2622/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="aws" width="40" height="40"/> </a> <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
 <img src="https://w7.pngwing.com/pngs/410/153/png-transparent-white-hat-metasploit-project-exploit-computer-security-penetration-test-framework-miscellaneous-logo-payload-thumbnail.png" alt="aws" width="40" height="40"/> </a> <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJBfJ4XR24FWoSEd1Q0TE0md4POL9bLsYRw&s" alt="aws" width="40" height="40"/> </a> <a href="https://www.ibm.com/qradar" target="_blank" rel="noreferrer">
 </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vadaysakiv&show_icons=true&locale=en&layout=compact" alt="vadaysakiv" /></p>
