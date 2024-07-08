@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vadaysakiv&label=Profile%20views&color=0e75b6&style=flat" alt="vadaysakiv" /> </p>
 
-- 🔭 I’m currently working on **SOC and VAPT**
+- 🔭 I’m currently working on **SOC 1**
 
-- 🌱 I’m currently learning for **SOC 1**
+- 🌱 I’m currently learning for **Logs Monitoring**
 
 - 📝 I regularly write articles on [SOC and Pentesting](SOC and Pentesting)
 
