@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning for **Logs Monitoring**
 
-- 📝 I regularly write articles on [SOC and Pentesting](SOC and Pentesting)
+- 📝 I regularly write articles on **SOC and Pentesting**
 
 - 💬 Ask me about **LINUX, HOMELABS, PENTESTING & DEFENSE**
 
