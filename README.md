@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vadaysakiv&label=Profile%20views&color=0e75b6&style=flat" alt="vadaysakiv" /> </p>
 
-- 🔭 I’m currently working on **SOC 1**
+- 🔭 I’m currently working on **Web Penetration Tester**
 
-- 🌱 I’m currently learning for **Logs Monitoring**
+- 🌱 I’m currently learning for **web vulnerabilities**
 
-- 📝 I regularly write articles on **SOC and Pentesting**
+- 📝 I regularly write articles on **Pentesting**
 
 - 💬 Ask me about **LINUX, HOMELABS, PENTESTING & DEFENSE**
 
