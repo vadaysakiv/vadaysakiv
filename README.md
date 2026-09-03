@@ -8,15 +8,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vadaysakiv&label=Profile%20views&color=0e75b6&style=flat" alt="vadaysakiv" /> </p>
 
-🌐 This is my frontend GitHub account.  
 
-📜 My primary account is private in line with compliance and legal guidelines.  
+🌐 This is my public GitHub account.  
 
-🏢 I work with CrowdStrike Singapore, specializing in web application security and related services.
+📜 My primary account is kept private in line with compliance and legal guidelines.
 
-📧 For consulting inquiries, please contact me through CrowdStrike at info@crowdstrike.com. 
+🏢 I work with CrowdStrike Singapore, specializing in web application security and related services.  
 
-⚖️ Engagements are strictly limited to projects that comply with Singaporean law.  
+📧 For consulting inquiries, please contact me through CrowdStrike at info@crowdstrike.com.  
+
+⚖️ Engagements are strictly limited to projects that comply with Singaporean law. 
+
+🌍 Available for projects in: India, Singapore, Japan, Korea, China, and Russia.
 
 
 
