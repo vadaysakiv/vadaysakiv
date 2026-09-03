@@ -25,9 +25,3 @@
 
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJBfJ4XR24FWoSEd1Q0TE0md4POL9bLsYRw&s" alt="aws" width="40" height="40"/> </a> <a href="https://www.ibm.com/qradar" target="_blank" rel="noreferrer">
-</a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vadaysakiv&show_icons=true&locale=en&layout=compact" alt="vadaysakiv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vadaysakiv&" alt="vadaysakiv" /></p>
