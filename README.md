@@ -3,4 +3,4 @@
 
 🌍 Available for consulting projects in India, Singapore.  
 ⚖️ All engagements strictly comply with Singaporean law and corporate guidelines.  
-📧 For inquiries, please contact me through CrowdStrike email  
+📧 For inquiries, please contact me through CrowdStrike
