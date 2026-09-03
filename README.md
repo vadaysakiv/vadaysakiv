@@ -1,8 +1,11 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 
-<h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
-<h3 align="center">A passionate  Security Researcher from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif">
+<p align="center">
+🔐 Experienced in security tools and custom solutions tailored to client needs.<br>
+🌍 Available for consulting projects in India, Singapore, Japan, Korea, China, and Russia.<br>
+📧 For inquiries, please contact me through CrowdStrike at <b>info@crowdstrike.com</b>.<br>
+⚖️ All engagements strictly comply with Singaporean law and corporate guidelines.
+</p>
 
 
 
