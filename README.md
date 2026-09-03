@@ -19,7 +19,7 @@
 
 ⚖️ Engagements are strictly limited to projects that comply with Singaporean law. 
 
-🌍 Available for projects in: India, Singapore, Japan, Korea, China, and Russia.
+🌍 Available for projects in: India, Singapore ONLY
 
 
 
