@@ -1,5 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
-
 <p align="center">
 🔐 Experienced in security tools and custom solutions tailored to client needs.<br>
 🌍 Available for consulting projects in India, Singapore, Japan, Korea, China, and Russia.<br>
