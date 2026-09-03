@@ -7,7 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vadaysakiv&label=Profile%20views&color=0e75b6&style=flat" alt="vadaysakiv" /> </p>
-**
+
 🌐 This is my frontend GitHub account.  
 
 📜 My primary account is private in line with compliance and legal guidelines.  
